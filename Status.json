@@ -1,0 +1,6 @@
+{
+    "Text": "Time for a fresh start!",
+    "ShowVersion": false,
+    "StatusType": "discord.Status.online",
+    "PossibleTypes": "discord.Status.online, discord.Status.idle, discord.Status.invisible, discord.Status.dnd"
+}

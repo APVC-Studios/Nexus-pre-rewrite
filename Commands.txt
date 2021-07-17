@@ -1,0 +1,6 @@
+```
+$help - The thing you are currently looking at.
+$ping - Shows how fast the bot can reach Discord.
+$showjson - Debugging command
+$loadjson FILENAME - Grabs a json from the cloud and shows it
+```

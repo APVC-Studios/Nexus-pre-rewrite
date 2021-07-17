@@ -1,0 +1,6 @@
+v1.1
++ Added an command to pull an embed from the cloud
++ Better errors
+V1
++ Python rewrite
++ Basic stuff
